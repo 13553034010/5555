@@ -1,0 +1,6 @@
+AK_login_test01:
+ username: "13555550000"
+ pwd: "123456"
+AK_login_test02:
+ username: ""
+ pwd: "234567"
