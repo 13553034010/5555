@@ -1,16 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="85ce7182-f037-4a45-a86f-4376671874d6" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/Day05.iml" afterPath="$PROJECT_DIR$/.idea/Day05.iml" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+    <list default="true" id="85ce7182-f037-4a45-a86f-4376671874d6" name="Default" comment="mmm">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/.pytest_cache/README.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.pytest_cache/v/cache/lastfailed" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.pytest_cache/v/cache/nodeids" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Report/report.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Scripts/Report/assets/style.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Scripts/Report/report.html" afterPath="" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -90,7 +82,7 @@
         <entry file="file://$PROJECT_DIR$/pytest.ini">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="23">
-              <caret line="1" column="29" lean-forward="true" selection-start-line="1" selection-start-column="29" selection-end-line="1" selection-end-column="29" />
+              <caret line="1" column="11" lean-forward="false" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
               <folding />
             </state>
           </provider>
@@ -167,21 +159,6 @@
             <path>
               <item name="Day05" type="b2602c69:ProjectViewProjectNode" />
               <item name="Day05" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Day05" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Day05" type="462c0819:PsiDirectoryNode" />
-              <item name="Base" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Day05" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Day05" type="462c0819:PsiDirectoryNode" />
-              <item name="Page" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Day05" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Day05" type="462c0819:PsiDirectoryNode" />
-              <item name="Report" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Day05" type="b2602c69:ProjectViewProjectNode" />
@@ -305,7 +282,14 @@
       <option name="project" value="LOCAL" />
       <updated>1543123062897</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="shanchu baogao">
+      <created>1543123268892</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1543123268892</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -342,7 +326,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="xiugai baogao peizhiwenjian" />
-    <option name="LAST_COMMIT_MESSAGE" value="xiugai baogao peizhiwenjian" />
+    <MESSAGE value="shanchu baogao" />
+    <option name="LAST_COMMIT_MESSAGE" value="shanchu baogao" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -686,14 +671,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Scripts/test01.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="9" column="10" lean-forward="false" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Scripts/test_login.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="46">
@@ -710,10 +687,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Scripts/test01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="10" lean-forward="false" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pytest.ini">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="23">
-          <caret line="1" column="29" lean-forward="true" selection-start-line="1" selection-start-column="29" selection-end-line="1" selection-end-column="29" />
+          <caret line="1" column="11" lean-forward="false" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
           <folding />
         </state>
       </provider>
