@@ -1,8 +1,11 @@
 import os,sys
 # 位置
+
+
 sys.path.append(os.getcwd())
 
 import pytest
+import allure
 from Base.get_driver import get_driver
 from Page.page_login import PageLogin
 
@@ -17,12 +20,16 @@ class TestLogin():
         # 关闭驱动对象
         self.login.driver.quit()
     # 测试方法
+    @allure.step(title="测试步骤")
     def test_login(self,username="18600001111",pwd="123456"):
         # 输入用户名
+        allure.attach("输入用户名")
         self.login.page_input_username(username)
         # 输入密码
+        allure.attach("输入密码")
         self.login.page_input_password(pwd)
         # 点击登录
+        allure.attach("点击登录")
         self.login.page_click_login_btn()
 if __name__ == '__main__':
     pytest.main("-s test_login.py")
