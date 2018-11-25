@@ -23,13 +23,13 @@ class TestLogin():
     @allure.step(title="测试步骤")
     def test_login(self,username="18600001111",pwd="123456"):
         # 输入用户名
-        allure.attach("输入用户名")
+        allure.attach("输入用户名","")
         self.login.page_input_username(username)
         # 输入密码
-        allure.attach("输入密码")
+        allure.attach("输入密码","")
         self.login.page_input_password(pwd)
         # 点击登录
-        allure.attach("点击登录")
+        allure.attach("点击登录","")
         self.login.page_click_login_btn()
 if __name__ == '__main__':
     pytest.main("-s test_login.py")
